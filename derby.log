@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Sun May 24 14:29:19 MSK 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-4671-c1b5-0000002d5c30 
+on database directory /Users/out-berezhnoy-ov/IdeaProjects/spring_example/db/demodb with class loader sun.misc.Launcher$AppClassLoader@e69d7ce 
+Loaded from file:/Users/out-berezhnoy-ov/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse OpenJ9
+java.runtime.version=1.8.0_232-b09
+java.fullversion=1.8.0_232-b09
+JRE 1.8.0 Mac OS X amd64-64-Bit 20191101_202 (JIT enabled, AOT enabled)
+OpenJ9   - 77c1cf708
+OMR      - 20db4fbc1
+JCL      - 3504dff40aa based on jdk8u232-b09
+user.dir=/Users/out-berezhnoy-ov/IdeaProjects/spring_example
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
