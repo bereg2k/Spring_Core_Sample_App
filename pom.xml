@@ -24,7 +24,7 @@
         <spring.ver>5.2.6.RELEASE</spring.ver>
         <aspectj.ver>1.9.5</aspectj.ver>
         <slf4j.ver>2.0.0-alpha1</slf4j.ver>
-        <derby.ver>10.14.2.0</derby.ver>
+        <derby.ver>10.17.1.0</derby.ver>
     </properties>
 
     <dependencies>
